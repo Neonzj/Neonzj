@@ -3,11 +3,12 @@
   <table align="center">
   <tr border="none">
   <td width="50%" align="center">
-  <h3><img scr="">About me</h3>
-  <p>❗Este GitHub es para "cosas de clase" y algunas cosas personales tambien.</p>
+  <h3><img scr="">Sobre mí</h3>
+  <p>❌ Ahora solo programo de muy vez en cuando JAJAJA </p>
+  <p>📸 He cambiado la programacion por la edicion de videos/fotografias </p>
   <p>💭 Me gusta más editar que programar</p>
   <p>✏️ Varias obras publicadas en <a href="https://www.wattpad.com/user/akirakurai13">Wattpad</a></p> 
-  <p>⚽ Soy un enorme fan de Inazuma Eleven </p>
+  <p>⚽ Soy un enorme fan de Inazuma Eleven :3 </p>
   
   <br></br>
   <!-- Imagen Shawn Froste -->
